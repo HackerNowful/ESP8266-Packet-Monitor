@@ -16,7 +16,7 @@ Enjoy and exploring the world of Wi-Fi monitoring with your D1 Mini and OLED dis
 For More Details Follow This Link <a href="https://hypesecinfotech.blogspot.com/2023/05/wi-fi-packet-monitoring-and-deauth.html" target="blank">Click Here</a>
 
 <h1 align="center">Hi 👋, I'm Mohammed Nowful Khan</h1>
-<h3 align="center">Hardwere hacker</h3>
+<h3 align="center">Hardware hacker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackernowful&label=Profile%20views&color=0e75b6&style=flat" alt="hackernowful" /> </p>
 
